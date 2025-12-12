@@ -4,5 +4,6 @@ def print_hello_five_times():
     for _ in range(5):
         print("Hello")
 print_hello_five_times()
-
-print("End of a.py")
+# viết hàm tính tổng 2 số
+def sum_two_numbers(a, b):  
+    return a + b
